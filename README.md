@@ -17,4 +17,8 @@ To use UICollectionView & UITableView delegate method to set cell animation.
 
 [iOS-UITableViewCell的动画效果(一)](https://www.jianshu.com/p/15878d86e463)
 
+[一行代码让你的TableView动起来-iOS动画](https://www.jianshu.com/p/2dc3c9e0ca3e)
+
+
+
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
