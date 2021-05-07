@@ -6,6 +6,17 @@ To collecte the animation effect of iPhone's interface.
 ### Simple Animations
 To use UICollectionView & UITableView delegate method to set cell animation.
 
+![effect-one](https://user-images.githubusercontent.com/18623420/117406979-7889da00-af40-11eb-8119-718cd5493086.gif)
+
+![effect-two](https://user-images.githubusercontent.com/18623420/117407002-80497e80-af40-11eb-95e2-ec5d43c49562.gif)
+
+![effect-three](https://user-images.githubusercontent.com/18623420/117407024-87708c80-af40-11eb-9765-28d11d797c41.gif)
+
+![effect-four](https://user-images.githubusercontent.com/18623420/117407052-90615e00-af40-11eb-8694-8c2c3feddb5f.gif)
+
+![effect-five](https://user-images.githubusercontent.com/18623420/117407090-9fe0a700-af40-11eb-9076-281be044888c.gif)
+
+![effect-six](https://user-images.githubusercontent.com/18623420/117407104-a53df180-af40-11eb-8553-e4f504e270ee.gif)
 
 
 ### Reference:
